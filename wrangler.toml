@@ -17,7 +17,7 @@ enabled = true
 [vars]
 CF_ACCOUNT_LIST = '''[{
     "account_id":"Sni007@soso.edu.kg",
-    "token":"wZxV2QY3vpPuwUX-wYpvpg-tV_631VrtitckL6G5"
+    "token":"RGurMpP6BxXzxSaLqLqjCER5dTM_8mOQkafd74xS"
 }]'''
 API_KEY = "your_api_key_here"
 CF_TRANSLATE_MODEL = "@cf/qwen/qwen1.5-14b-chat-awq"
